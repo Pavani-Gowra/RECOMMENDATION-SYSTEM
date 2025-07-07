@@ -1,5 +1,20 @@
 # RECOMMENDATION-SYSTEM
- Building a Recommendation System using Collaborative Filtering
+
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : G PAVANI
+
+INTERN ID : CT08DK681
+
+DOMAIN : MACHINE LEARNING
+
+DURATION : 8 WEEKS
+
+MENTOR : NEELA SANTHOSH
+
+DESCRIPTION OF THE TASK :
+
+ Building a Recommendation System using Collaborative Filtering :
  
 As part of the fourth and final task of my Machine Learning Internship at CodTech IT Solutions, I was assigned the task of building a Recommendation System using Collaborative Filtering techniques. The aim was to understand how recommendation engines work and implement a model capable of suggesting items (e.g., movies) to users based on historical interaction data. This task gave me hands-on experience with one of the most practical applications of machine learning in real-world platforms like Netflix, Amazon, and Spotify.
 
